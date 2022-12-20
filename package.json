@@ -1,0 +1,28 @@
+{
+  "name": "genepi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apaleslimghost/genepi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apaleslimghost/genepi/issues"
+  },
+  "homepage": "https://github.com/apaleslimghost/genepi#readme",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.16",
+    "geolib": "^3.3.3",
+    "sparkline-svg": "^1.0.4"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
