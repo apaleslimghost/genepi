@@ -20,6 +20,7 @@
   "dependencies": {
     "@googlemaps/google-maps-services-js": "^3.3.16",
     "geolib": "^3.3.3",
+    "minimist": "^1.2.7",
     "sparkline-svg": "^1.0.4"
   },
   "devDependencies": {
